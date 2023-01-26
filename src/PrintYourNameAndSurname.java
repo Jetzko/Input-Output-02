@@ -1,6 +1,6 @@
 public class PrintYourNameAndSurname {
     public static void main(String[] args) {
-        System.out.println("Andrea");
-        System.out.println("De Filippi");
+        System.out.print("Andrea ");
+        System.out.print("De Filippi");
     }
 }
